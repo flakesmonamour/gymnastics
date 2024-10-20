@@ -1,0 +1,31 @@
+.container {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.title {
+  color: #4CAF50;
+  margin-bottom: 1rem;
+}
+
+.workoutList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.workoutItem {
+  background-color: #f0f4f8;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 4px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
